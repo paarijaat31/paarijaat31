@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=PAARIJAAT%20TANEJA&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Finance%20%C3%97%20Data%20%C3%97%20Supply%20Chain%20%7C%20Future%20in%20VC%20%26%20PE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0E14,50:141B2D,100:1B1F2B&height=220&section=header&text=PAARIJAAT%20TANEJA&fontSize=48&fontColor=D4AF37&fontAlignY=38&desc=Finance%20x%20Data%20x%20Supply%20Chain%20%2F%20Future%20in%20VC%20and%20PE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&random=false&width=750&lines=%3E+whoami+%3A+FDD+Intern+%40+KPMG+India+(Transaction+Services);%3E+degree+%3A+Finance+%C3%97+Business+Data+Analytics+%C3%97+Supply+Chain;%3E+school+%3A+ASU+W.+P.+Carey+School+of+Business;%3E+stack+%3A+Python+%2F+SQL+%2F+PyTorch+%2F+DCF+Models;%3E+status+%3A+open+to+VC+%2F+PE+%2F+investment+analysis+roles..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=D4AF37&center=true&vCenter=true&random=false&width=750&lines=%3E+whoami+%3A+FDD+Intern+%40+KPMG+India+(Transaction+Services);%3E+degree+%3A+Finance+x+Business+Data+Analytics+x+Supply+Chain;%3E+school+%3A+ASU+W.+P.+Carey+School+of+Business;%3E+stack+%3A+Python+%2F+SQL+%2F+PyTorch+%2F+DCF+Models;%3E+status+%3A+open+to+VC+%2F+PE+%2F+investment+analysis+roles..." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarijaat-taneja/)
-[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
+[![Email](https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaat-portfolio.vercel.app/)
-<img src="https://komarev.com/ghpvc/?username=paarijaat31&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=paarijaat31&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS" />
 
 </div>
 
 <div align="center">
 
-```diff
-+ TICKER: PT.31         PRICE: OVERPERFORM          SECTOR: VC / PE / FINTECH
-+ FIN     ██████████████████████░░  92%   Financial Modeling . Valuation . DCF
-+ BDA     ████████████████████░░░░  85%   Python . SQL . Statistical Analysis
-+ SCM     ██████████████████░░░░░░  80%   Ops Analytics . Queuing . Logistics
-+ RE      ████████████████░░░░░░░░  74%   Real Estate Underwriting
+```text
+  TICKER: PT.31         PRICE: OVERPERFORM          SECTOR: VC / PE / FINTECH
+  FIN     ██████████████████████░░  92%   Financial Modeling . Valuation . DCF
+  BDA     ████████████████████░░░░  85%   Python . SQL . Statistical Analysis
+  SCM     ██████████████████░░░░░░  80%   Ops Analytics . Queuing . Logistics
+  RE      ████████████████░░░░░░░░  74%   Real Estate Underwriting
 ```
 
 </div>
@@ -54,7 +54,7 @@ class Paarijaat:
 
 <div align="center">
 
-<img src="https://quickchart.io/chart?width=850&height=220&backgroundColor=%230d1117&c={type:'line',data:{labels:['9:30','10:00','10:30','11:00','11:30','12:00','12:30','1:00','1:30','2:00','2:30','3:00','3:30','4:00'],datasets:[{label:'Portfolio%20Momentum',data:[10,13,11,17,15,22,20,26,24,30,29,35,33,40],borderColor:'%2300FF9C',backgroundColor:'rgba(0,255,156,0.08)',fill:true,tension:0.4,pointRadius:0,borderWidth:3}]},options:{plugins:{legend:{display:false}},scales:{x:{ticks:{color:'%238b949e'},grid:{color:'%23161b22'}},y:{ticks:{color:'%238b949e'},grid:{color:'%23161b22'}}}}}" alt="market pulse chart" width="100%"/>
+<img src="https://quickchart.io/chart?width=850&height=220&backgroundColor=%230d1117&c={type:'line',data:{labels:['9:30','10:00','10:30','11:00','11:30','12:00','12:30','1:00','1:30','2:00','2:30','3:00','3:30','4:00'],datasets:[{label:'Portfolio%20Momentum',data:[10,13,11,17,15,22,20,26,24,30,29,35,33,40],borderColor:'%23D4AF37',backgroundColor:'rgba(212,175,55,0.10)',fill:true,tension:0.4,pointRadius:0,borderWidth:3}]},options:{plugins:{legend:{display:false}},scales:{x:{ticks:{color:'%238b949e'},grid:{color:'%23161b22'}},y:{ticks:{color:'%238b949e'},grid:{color:'%23161b22'}}}}}" alt="market pulse chart" width="100%"/>
 
 </div>
 
@@ -85,12 +85,12 @@ class Paarijaat:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=paarijaat31&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarijaat31&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=paarijaat31&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarijaat31&layout=compact&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=D4AF37" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarijaat31&theme=synthwave&hide_border=true&background=0d1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paarijaat31&theme=gruvbox&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37" />
 
-<img src="https://github-readme-trophy.vercel.app/?username=paarijaat31&theme=algolia&no-frame=true&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-readme-trophy.vercel.app/?username=paarijaat31&theme=gruvbox&no-frame=true&column=7&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -122,10 +122,10 @@ next_close: TBD
 ### 📬 Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarijaat-taneja/)
-[![Email](https://img.shields.io/badge/-Send_an_Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
+[![Email](https://img.shields.io/badge/-Send_an_Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
 [![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaat-portfolio.vercel.app/)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F2B,50:141B2D,100:0B0E14&height=120&section=footer" width="100%"/>
 
 <sub>Markets close. Models don't. Paarijaat Taneja</sub>
 
