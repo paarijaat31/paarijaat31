@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=PAARIJAAT%20TANEJA&fontSize=48&fontColor=00FF9C&fontAlignY=38&desc=Finance%20%C3%97%20Data%20%C3%97%20Supply%20Chain%20%7C%20Future%20in%20VC%20%26%20PE&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&random=false&width=750&lines=%3E+whoami+%3A+FDD+Intern+%40+KPMG+India+(Transaction+Services);%3E+degree+%3A+Finance+%C3%97+Business+Data+Analytics+%C3%97+Supply+Chain;%3E+school+%3A+ASU+W.+P.+Carey+School+of+Business;%3E+stack+%3A+Python+%2F+SQL+%2F+PyTorch+%2F+DCF+Models;%3E+status+%3A+building+a+20-project+portfolio..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&random=false&width=750&lines=%3E+whoami+%3A+FDD+Intern+%40+KPMG+India+(Transaction+Services);%3E+degree+%3A+Finance+%C3%97+Business+Data+Analytics+%C3%97+Supply+Chain;%3E+school+%3A+ASU+W.+P.+Carey+School+of+Business;%3E+stack+%3A+Python+%2F+SQL+%2F+PyTorch+%2F+DCF+Models;%3E+status+%3A+open+to+VC+%2F+PE+%2F+investment+analysis+roles..." alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](#)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarijaat-taneja/)
+[![Email](https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaat-portfolio.vercel.app/)
 <img src="https://komarev.com/ghpvc/?username=paarijaat31&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS" />
 
 </div>
@@ -29,9 +29,7 @@
 
 I'm a senior at Arizona State University's **W. P. Carey School of Business**, triple majoring in **Finance, Business Data Analytics, and Supply Chain Management**, with a minor in **Real Estate**. Right now I'm interning at **KPMG India** in **Transaction Services (Financial Due Diligence)**, working out of Gurugram, and splitting my time between the US and India otherwise.
 
-Outside of that, I'm a **Teaching Assistant and Quantitative Tutor** in the ASU Accountancy department, and I spend a lot of my own time building a personal portfolio of finance, data, and supply chain projects, because I want my long term path to run through **venture capital, private equity, and investment analysis**.
-
-This profile is where I keep the technical and analytical side of that work, models, code, and coursework that show how I actually think through a problem.
+Outside of that, I'm a **Teaching Assistant and Quantitative Tutor** in the ASU Accountancy department. My long term path runs through **venture capital, private equity, and investment analysis**, and this profile is where I keep the technical and analytical side of that work.
 
 ### 🖥️ `~/about-me.sh`
 
@@ -45,9 +43,6 @@ class Paarijaat:
         self.also_doing       = "Teaching Assistant & Quantitative Tutor, ASU Accountancy"
         self.based_in          = ["United States", "India"]
         self.interests         = ["Venture Capital", "Private Equity", "Investment Analysis"]
-
-    def currently_building(self):
-        return "A 20-project portfolio across Finance, BDA, Supply Chain and Real Estate"
 
     def philosophy(self):
         return "Where markets meet models, and capital meets code."
@@ -86,30 +81,6 @@ class Paarijaat:
 
 ---
 
-### 🚀 Featured Deals & Builds
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paarijaat31&repo=meridian-park-dcf&theme=dark&border_color=00FF9C&bg_color=0d1117&title_color=00FF9C" />
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=paarijaat31&repo=portfolio-20&theme=dark&border_color=00FF9C&bg_color=0d1117&title_color=00FF9C" />
-</a>
-
-</div>
-
-| Deal Sheet | Description | Tags |
-|---|---|---|
-| 🏢 **Meridian Park Apartments** | Institutional-grade CRE DCF model, full acquisition assumptions, waterfall structuring, and sensitivity analysis on a multifamily asset | `Real Estate` `Valuation` `Excel` |
-| 📊 **20-Project Portfolio** | A structured build-out across Finance, BDA, Supply Chain, and Real Estate, each project engineered to prove a distinct analyst skill | `Finance` `Analytics` `Ongoing` |
-| 🤖 **Applied Deep Learning (DAT494)** | Neural network coursework applied to real analytical problems | `Python` `PyTorch` `Deep Learning` |
-| 📈 **Quant Finance Toolkit (FIN421)** | Fama-French factor models, binomial option pricing, and yield curve bootstrapping built from first principles | `Python` `Quant` `Asset Pricing` |
-
-> 💡 Pin these repos on your GitHub profile settings so the cards above resolve to real links instead of dead ends.
-
----
-
 ### 📈 The Numbers
 
 <div align="center">
@@ -140,7 +111,6 @@ class Paarijaat:
 ```yaml
 role: Financial Due Diligence Intern @ KPMG India (Transaction Services)
 watching: [Venture Capital, Private Equity, Investment Analysis]
-building: 20-project portfolio (Finance / BDA / Supply Chain / Real Estate)
 teaching: Quantitative Tutor, ASU Accountancy Department
 next_close: TBD
 ```
@@ -151,8 +121,9 @@ next_close: TBD
 
 ### 📬 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Send_an_Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](#)
+[![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarijaat-taneja/)
+[![Email](https://img.shields.io/badge/-Send_an_Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
+[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaat-portfolio.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
 
