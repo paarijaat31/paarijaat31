@@ -100,8 +100,6 @@ class Paarijaat:
 
 <img src="https://raw.githubusercontent.com/paarijaat31/paarijaat31/output/github-contribution-grid-snake.svg" width="100%"/>
 
-<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a>. Requires a GitHub Action set up in this repo, see setup notes below.</sub>
-
 </div>
 
 ---
