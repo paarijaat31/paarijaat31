@@ -121,7 +121,7 @@ next_close: TBD
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paarijaat-taneja/)
 [![Email](https://img.shields.io/badge/-Send_an_Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=black)](mailto:paarijaat@asu.edu)
-[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaat-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Visit_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://paarijaatt.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B1F2B,50:141B2D,100:0B0E14&height=120&section=footer" width="100%"/>
 
